@@ -1,5 +1,5 @@
 # DC-Position-Control-System
-## Aim:
+## Aim:.
 To control the position of motor having the following specifications using MATLAB.<br>
 (J)     moment of inertia of the rotor =    3.2284E-6 kg.m^2<br>
 (b)     motor viscous friction constant =    3.5077E-6 N.m.s<br>
